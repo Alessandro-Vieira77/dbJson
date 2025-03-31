@@ -1,0 +1,137 @@
+{
+  "time": [
+    {
+      "id": 1,
+      "hours": "8:00"
+    },
+    {
+      "id": 2,
+      "hours": "8:30"
+    },
+    {
+      "id": 3,
+      "hours": "9:00"
+    },
+    {
+      "id": 4,
+      "hours": "9:30"
+    },
+    {
+      "id": 5,
+      "hours": "10:00"
+    },
+    {
+      "id": 6,
+      "hours": "10:30"
+    },
+    {
+      "id": 7,
+      "hours": "11:00"
+    },
+
+    {
+      "id": 8,
+      "hours": "11:30"
+    },
+    {
+      "id": 9,
+      "hours": "12:00"
+    },
+    {
+      "id": 10,
+      "hours": "12:30"
+    },
+    {
+      "id": 11,
+      "hours": "13:00"
+    },
+    {
+      "id": 12,
+      "hours": "13:30"
+    },
+    {
+      "id": 13,
+      "hours": "14:00"
+    },
+    {
+      "id": 14,
+      "hours": "14:30"
+    },
+
+    {
+      "id": 15,
+      "hours": "15:00"
+    },
+
+    {
+      "id": 16,
+      "hours": "16:00"
+    },
+
+    {
+      "id": 17,
+      "hours": "17:00"
+    },
+
+    {
+      "id": 18,
+      "hours": "17:30"
+    },
+
+    {
+      "id": 19,
+      "hours": "18:00"
+    },
+    {
+      "id": 20,
+      "hours": "18:30"
+    }
+  ],
+  "price": [
+    {
+      "id": "1",
+      "name": "Corte Normal",
+      "price": 15
+    },
+    {
+      "id": "2",
+      "name": "Social",
+      "price": 20
+    },
+    {
+      "id": "4",
+      "name": "Barba + Cabelo",
+      "price": 22
+    },
+    {
+      "id": "5",
+      "name": "Luzes",
+      "price": 30
+    },
+    {
+      "id": "6",
+      "name": "Degrader",
+      "price": 80
+    },
+    {
+      "id": "7",
+      "name": "Slow money",
+      "price": 45
+    },
+    {
+      "id": "8",
+      "name": "Americano",
+      "price": 18
+    },
+    {
+      "id": "9",
+      "name": "Alisamento",
+      "price": 35
+    },
+    {
+      "id": "10",
+      "name": "Criança",
+      "price": 13
+    }
+  ]
+}
